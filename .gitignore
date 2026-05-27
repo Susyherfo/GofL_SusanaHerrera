@@ -1,0 +1,19 @@
+# Outputs generados
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Jupyter (por si acaso)
+.ipynb_checkpoints/
